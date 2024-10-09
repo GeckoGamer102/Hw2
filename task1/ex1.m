@@ -12,4 +12,6 @@ growth_rate = (population(2:end) - population(1:end-1)) ./ population(1:end-1)
 
 pop_data = [population; [0 growth_rate]]
 
-%fprintf (['The population was ', num2str(pop_data), 'and the growth rate was ', num2str(growth_rate),]);
+for i = 1:length(population)
+    fprintf('For the %d year the population was %d with a growth rate %f \n', i, pop_data(1, i), pop_data(2, i))
+end
