@@ -1,0 +1,3 @@
+%we can see that the stock clearly shows that the stock is increasing
+%the maximum price is $45 and the lowest it gets to is $17. this means that it definetly would have been a smart idea to invest
+%the average price over 30 days was $27.91. 

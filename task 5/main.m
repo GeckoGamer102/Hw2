@@ -1,7 +1,7 @@
 % Author Name: Tyler Ardito
 % Email: ardito86@students.rowan.edu
 % Course: MATLAB Programming - Fall 2024
-% Assignment: Homework 2 ex 2
+% Assignment: Homework 2 ex 5
 % Date: 10/11
 
 file_name = 'stock_data.txt'
