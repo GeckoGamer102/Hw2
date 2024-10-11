@@ -1,7 +1,7 @@
 % Author Name: Tyler Ardito
 % Email: ardito86@students.rowan.edu
 % Course: MATLAB Programming - Fall 2024
-% Assignment: Homework 2 ex 3
+% Assignment: Homework 2 ex 4
 % Date: 10/11
 
 %Solar System Visualization
